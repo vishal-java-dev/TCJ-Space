@@ -1,12 +1,95 @@
-# React + Vite
+# 🌌 TCJ Space – Satellite Intelligence Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TCJ Space is a futuristic and responsive front-end interface built with React and Tailwind CSS, designed to showcase the capabilities of modern satellite technologies. The platform focuses on real-time Earth observation, navigation, and global space-based services.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## Expanding the ESLint configuration
+> **Coming Soon** – Live demo hosted on Vercel/Netlify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 🎯 **Mission-driven Hero & Banners** – Highlighting space goals with animation
+- 🛰️ **Modular Services** – Data cards for satellite layers and real-time use-cases
+- 🎨 **Fully Responsive** – Mobile-first, pixel-perfect design
+- 💬 **AOS Integration** – Smooth scroll-triggered animations
+- 🌐 **Accessible & Semantic HTML** – Optimized for users and screen readers
+- 🧠 **Modern Tech Stack** – Built with scalable components and atomic design principles
+
+---
+
+## 🧱 Tech Stack
+
+| Technology     | Role                        |
+|----------------|-----------------------------|
+| React.js       | Core UI Library             |
+| Tailwind CSS   | Styling Framework           |
+| AOS.js         | Scroll Animations           |
+| React Icons    | Iconography                 |
+| JSX            | Component-based structure   |
+
+---
+
+## 📁 Directory Structure
+src/
+├── assets/ # Images & GIFs (wave, satellite, moon surface, logo)
+├── components/ # Modular React Components
+│ ├── NavBar.jsx
+│ ├── Hero.jsx
+│ ├── Banner.jsx
+│ ├── Banner2.jsx
+│ ├── Services.jsx
+│ └── Footer.jsx
+├── App.js
+├── index.js
+└── index.css
+
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** and **npm/yarn** installed:
+
+```bash
+node -v
+npm -v
+
+###  Installation
+# Clone the repository
+git clone https://github.com/your-username/tcj-space.git
+cd tcj-space
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+---
+
+🤝 Contributing
+Contributions are welcome! If you'd like to improve functionality, design, or accessibility:
+
+1.Fork the repository
+2.Create a new branch (git checkout -b feature/new-feature)
+3.Commit changes (git commit -m 'Add new feature')
+4.Push to the branch (git push origin feature/new-feature)
+5.Create a Pull Request
+
+📬 Contact
+Vishal Yadav
+📧 mr.vishalyadav03@gmail.com
+📍 Hazaribagh, Jharkhand
+🔗 LinkedIn (https://www.linkedin.com/in/vishal-java-dev/)
+
+
+
+
+
+
