@@ -6,7 +6,7 @@ TCJ Space is a futuristic and responsive front-end interface built with React an
 
 ## 📸 Preview
 
-> **Coming Soon** – Live demo hosted on Vercel/Netlify
+>  https://vishal-java-dev.github.io/TCJ-Space/
 
 ---
 
