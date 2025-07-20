@@ -85,8 +85,7 @@ Contributions are welcome! If you'd like to improve functionality, design, or ac
 
 📬 Contact
 Vishal Yadav
-📧 mr.vishalyadav03@gmail.com
-📍 Hazaribagh, Jharkhand
+📧 mr.vishalyadav0311@gmail.com
 🔗 LinkedIn (https://www.linkedin.com/in/vyadav03/)
 
 
