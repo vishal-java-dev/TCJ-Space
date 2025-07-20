@@ -5,6 +5,7 @@ TCJ Space is a futuristic and responsive front-end interface built with React an
 ---
 
 ## 📸 Preview
+<img width="1284" height="630" alt="TCJ" src="https://github.com/user-attachments/assets/97a03c5b-7164-4a82-a4bf-a3cdaaa8af16" />
 
 >  https://vishal-java-dev.github.io/TCJ-Space/
 
@@ -86,7 +87,7 @@ Contributions are welcome! If you'd like to improve functionality, design, or ac
 Vishal Yadav
 📧 mr.vishalyadav03@gmail.com
 📍 Hazaribagh, Jharkhand
-🔗 LinkedIn (https://www.linkedin.com/in/vishal-java-dev/)
+🔗 LinkedIn (https://www.linkedin.com/in/vyadav03/)
 
 
 
